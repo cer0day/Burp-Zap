@@ -1,0 +1,58 @@
+body{
+	background-color: #747482;
+}
+h1, h2{
+	text-align: center;
+	color: #dd6500;
+}
+#main{
+	margin: 0 auto;
+	background-color: #b9b8bd;
+	width: 500px;
+	text-align: center;
+	padding: 15px;
+	border: solid	2px #dd6500;
+}
+.t1{
+	background-color: #f3f3f3;
+	margin: 0 auto;
+	width: 470px;
+	padding: 10px;
+}
+.t1 input, select{
+	width: 90%;
+	font-size: 1.3em;
+	padding: 10px;
+}
+
+.t2{
+	background-color: #f3f3f3;
+	margin: 0 auto;
+	width: 470px;
+}
+
+.herramienta{
+	width: 50%;
+	
+	padding: 10px;
+	background-color: #d18863;
+	color: whitesmoke;
+}
+.medida{
+	width: 80%%;
+	background-color: white;
+	padding: 10px;
+}
+#submit{
+	background-color: #3e744d;
+	color: whitesmoke;
+	margin-bottom: 50px;
+}
+#pruebas{
+	background-color: black;
+	color: red;
+	font-size: 2em;
+	padding: 10px;
+	opacity: .4;
+	text-align: center;
+	margin: 0 auto	;
