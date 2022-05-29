@@ -1,2 +1,8 @@
 # Burp-Zap
-En este ejemplo se realiza una demostración de varios ataques de fuerza bruta con distintas herramientas
+En este ejemplo de mide el tiempo que tarda en ejecutarse un atauqe de fuerza bruta, con distintas herramientas
+
+
+
+
+
+@lamillo
